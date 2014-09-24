@@ -37,7 +37,7 @@
     <string name="uv_title_idea">Idea</string>
     <string name="uv_posted_by_format">Posted by %1$s on %2$s</string>
     <string name="uv_all_articles">All Articles</string>
-    <string name="uv_portal_title">Help</string>
+    <string name="uv_portal_title">Support / Feedback</string>
     <string name="uv_network_error">There was an error connecting to UserVoice</string>
     <string name="uv_signin_dialog_title">Sign in</string>
     <string name="uv_signin_dialog_ok">Sign in</string>
